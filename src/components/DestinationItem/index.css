@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.img {
+  width: 300px;
+}
+
+.place-containerApp {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.list {
+  list-style-type: none;
+}
